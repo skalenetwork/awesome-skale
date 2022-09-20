@@ -10,7 +10,7 @@ The network is open-source and is built to scale Ethereum dApps. It includes bui
 
 ## Tutorials
 
-* [What is SKALE](https://docs.skale.network/learn/overview)
+* [What is SKALE](https://docs.skale.network/learn/overview) - basic facts about SKALE network
 * [Official tutorial](https://docs.skale.network/learn/) - official SKALE tutorial
 
 
